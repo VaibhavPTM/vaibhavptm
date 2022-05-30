@@ -1,5 +1,5 @@
 # 💫About Me :
--👋 Hi, I’m @naimishborad
+-👋 Hi, I’m @vaibhavpatel
 
 -👀 I’m interested in Mobile Development And data structures and algorithms
 
