@@ -42,7 +42,6 @@ From engineering **microservice architectures** handling **up to 30K TPS** to de
 
 ## 📫 Let's Connect
 - 💼 [Upwork](https://www.upwork.com/freelancers/~01e5a51c1d215e1679)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-vadadoriya-7657531ba/)
 - 🏆 [Codeforces](https://codeforces.com/profile/Vaibhav_patel)
 - 📧 **Email:** info.vaibhavvadadoriya@gmail.com
 
